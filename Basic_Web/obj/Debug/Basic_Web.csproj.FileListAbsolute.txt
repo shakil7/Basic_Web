@@ -1,0 +1,6 @@
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\bin\Basic_Web.dll.config
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\bin\Basic_Web.dll
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\bin\Basic_Web.pdb
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\obj\Debug\Basic_Web.csprojResolveAssemblyReference.cache
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\obj\Debug\Basic_Web.dll
+D:\BASIS\51_BATCH\03-01-2015\SOURCE\Basic_Web\Basic_Web\obj\Debug\Basic_Web.pdb

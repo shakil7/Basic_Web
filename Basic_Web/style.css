@@ -1,0 +1,11 @@
+﻿.box {
+    width: 110px;
+    height: 260px;
+    background: green;
+    /*margin-top: 100px;
+    margin-left: 50px;*/
+    margin: 100px 0 0 50px;
+    padding-top: 100px;
+    padding-left: 150px;
+    border: 20px brown solid;
+}
